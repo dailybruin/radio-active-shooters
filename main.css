@@ -2,3 +2,50 @@ body {
 	font-family: Roboto;
 	font-weight: 300;
 }
+
+h1, h2 {
+	text-align: center;
+}
+
+h1, h3 {
+	font-weight: 400;
+	font-size: 4em;
+	color: #0080c6;
+	font-family: Alegreya;
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+h2, h4 {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	font-weight: 300;
+	letter-spacing: 2px;
+	color: #666;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+h4 {
+	text-align: left;
+}
+
+b {
+	font-weight: 500;
+}
+
+hr {
+	border-color: #0080c6;
+}
+
+.audio {
+	width: 50%;
+	float: right;
+	margin: 0 0 1em 1em;
+}
+
+a {
+	color:#0080c6;
+}
