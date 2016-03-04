@@ -7,7 +7,7 @@ Template Name: Active Shooters
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.css" type="text/css">
 <link rel="stylesheet" href="../css/unslider.css">
 <link rel="stylesheet" href="../css/unslider-dots.css">
-<link rel="stylesheet" href="../radio-active-shooters.css" type="text/css">
+<link rel="stylesheet" href="../css/radio-active-shooters.css" type="text/css">
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,500,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Alegreya:400italic,700italic' rel='stylesheet' type='text/css'>
 
